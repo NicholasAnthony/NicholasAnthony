@@ -48,7 +48,7 @@ Here are some projects I'm proud of:
 
 ### Pygame Adventures
 ![GitHub stars](https://img.shields.io/github/stars/NicholasAnthony/pygame-adventures?style=social)
-- **Description**: A collection of fun, kid-friendly video games built with Pygame for my boys, featuring space battles and treasure hunts.
+- **Description**: A collection of fun, kid-friendly video games built with Pygame for my boys, featuring super mario style platformer, snake, driving simulator and others.
 - **Tech Stack**: Python, Pygame
 - **Link**: [github.com/NicholasAnthony/pygame-adventures](https://github.com/NicholasAnthony/pygame-adventures)
 
