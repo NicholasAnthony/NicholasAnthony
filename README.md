@@ -34,11 +34,11 @@ Welcome to my GitHub! I'm a **Data Scientist** based in Perth, Australia, passio
 ## 🚀 Featured Projects
 Here are some projects I'm proud of:
 
-### Healthcare Churn Prediction
-![GitHub stars](https://img.shields.io/github/stars/NicholasAnthony/healthcare-churn?style=social)
+### ICU Sleep Environment Monitor
+![GitHub stars](https://img.shields.io/github/stars/NicholasAnthony/SleepMonitor?style=social)
 - **Description**: A machine learning pipeline to predict patient churn in healthcare systems, optimizing retention strategies.
-- **Tech Stack**: Python, Scikit-learn, XGBoost, Pandas, PostgreSQL
-- **Link**: [github.com/NicholasAnthony/healthcare-churn](https://github.com/NicholasAnthony/healthcare-churn)
+- **Tech Stack**: MicroPython, C, R
+- **Link**: [github.com/NicholasAnthony/SleepMonitor](https://github.com/NicholasAnthony/SleepMonitor)
 
 ### Quarto Healthcare Dashboard
 ![GitHub stars](https://img.shields.io/github/stars/NicholasAnthony/quarto-healthcare-dash?style=social)
@@ -57,7 +57,7 @@ Here are some projects I'm proud of:
 ---
 
 ## 📊 GitHub Stats
-![Nick Anthony's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NicholasAnthony&show_icons=true)
+![Nick Anthony's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NicholasAnthony)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NicholasAnthony)
 
 ---
