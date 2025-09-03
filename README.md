@@ -36,7 +36,7 @@ Here are some projects I'm proud of:
 
 ### ICU Sleep Environment Monitor
 ![GitHub stars](https://img.shields.io/github/stars/NicholasAnthony/SleepMonitor?style=social)
-- **Description**: A machine learning pipeline to predict patient churn in healthcare systems, optimizing retention strategies.
+- **Description**: This repository contains all the details of how I developed a sleep environment monitor for a clinical trial in ICU. The devices involve wireless communication between two Raspberry Pi Pico microcontrollers to display information received from sensors (ambient light, decibel reader, and thermometer) for the bedside clinician.
 - **Tech Stack**: MicroPython, C, R
 - **Link**: [github.com/NicholasAnthony/SleepMonitor](https://github.com/NicholasAnthony/SleepMonitor)
 
