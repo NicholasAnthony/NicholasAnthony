@@ -1,4 +1,3 @@
-<img src="https://github.com/NicholasAnthony/NicholasAnthony/blob/main/image (2).jpg" alt="NicholasAnthony's Health Data Science Banner" height="25%">
 
 # 👋 Hi, I'm Nick Anthony!
 
