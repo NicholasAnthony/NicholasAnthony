@@ -1,3 +1,5 @@
+<img src="https://github.com/NicholasAnthony/NicholasAnthony/blob/main/image (2).jpg" alt="NicholasAnthony's Health Data Science Banner" width="100%">
+
 # 👋 Hi, I'm Nick Anthony!
 
 Welcome to my GitHub! I'm a **Data Scientist** based in Perth, Australia, passionate about tackling complex data challenges in healthcare. From building predictive models with XGBoost to crafting interactive Quarto dashboards, I love turning data into actionable insights and code into engaging experiences. 🚀
