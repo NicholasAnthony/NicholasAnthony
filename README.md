@@ -61,12 +61,6 @@ Here are some projects I'm proud of:
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NicholasAnthony)
 ---
 
-## 🌟 Achievements
-- 🏆 Developed a real-time healthcare dashboard presented at Perth Data Science Meetup 2024
-- 📝 Published a Quarto report on patient outcome analytics, shared via GitHub
-- 💻 Contributed bug fixes to Tidyverse’s dplyr package
-- 🎮 Created 5+ Pygame games to inspire my kids’ interest in coding
-
 ---
 
 ## 📬 Let's Connect!
