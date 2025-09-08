@@ -1,7 +1,7 @@
 
 # 👋 Hi, I'm Nick Anthony!
 
-Welcome to my GitHub! I'm a **Data Scientist** based in Perth, Australia, passionate about tackling complex data challenges in healthcare. From building predictive models with XGBoost to crafting interactive Quarto dashboards, I love turning data into actionable insights and code into engaging experiences. 🚀
+Welcome to my GitHub! I'm a **Data Scientist** based in Perth, Australia, passionate about tackling complex data challenges in healthcare. From building predictive machine learning models with XGBoost to crafting interactive Quarto dashboards, I love turning data into actionable insights and code into engaging experiences. 🚀
 
 🌍 **Based in:** Perth, Australia  
 💼 **Currently working on:** Big data analytics in healthcare, Quarto dashboards, and XGBoost classification models  
