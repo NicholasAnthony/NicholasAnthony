@@ -23,12 +23,12 @@ Welcome to my GitHub! I'm a **Data Scientist** based in Perth, Australia, passio
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)
 ![Shiny](https://img.shields.io/badge/-Shiny-1E4B9C?logo=r&logoColor=white&style=flat)
 
-- **Languages**: Python, R, SQL, JavaScript, HTML, CSS, Markdown, Quarto
-- **Frameworks**: Scikit-learn, React, Django
+- **Languages**: Python, R, SQL, SAS, JavaScript, HTML, CSS, Markdown
+- **Frameworks**: Scikit-learn, Shiny, Quarto, React, Django, FastAPI
 - **Tools**: RStudio, Git, VS Code, Tidyverse, Pandas, NumPy, Cursor, GROK
 - **Databases**: PostgreSQL, MySQL
 - **Visualization**: ggplot2, Plotly, Seaborn
-- **Machine Learning**: Scikit-learn, TensorFlow, Caret, XGBoost
+- **Machine Learning**: Scikit-learn, TensorFlow, Pytorch, Keras  
 
 ---
 
