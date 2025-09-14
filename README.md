@@ -42,10 +42,10 @@ Here are some projects I'm proud of:
 - **Link**: [github.com/NicholasAnthony/SleepMonitor](https://github.com/NicholasAnthony/SleepMonitor)
 
 ### Quarto Healthcare Dashboard
-![GitHub stars](https://img.shields.io/github/stars/NicholasAnthony/quarto-healthcare-dash?style=social)
-- **Description**: An interactive dashboard visualizing hospital performance metrics, built with Quarto and Tidyverse.
-- **Tech Stack**: R, Quarto, Tidyverse, Shiny, ggplot2
-- **Link**: [github.com/NicholasAnthony/quarto-healthcare-dash](https://github.com/NicholasAnthony/quarto-healthcare-dash)
+![GitHub stars](https://img.shields.io/github/stars/NicholasAnthony/demo-FastAPI?style=social)
+- **Description**: A small demo application showing user registration and login using FastAPI, Pydantic models, password hashing, and SQLite storage
+- **Tech Stack**: Python, FastAPI, Pydantic, SQLite, html, css
+- **Link**: [github.com/NicholasAnthony/quarto-healthcare-dash](https://github.com/NicholasAnthony/demo-FastAPI)
 
 ### Pygame Adventures
 ![GitHub stars](https://img.shields.io/github/stars/NicholasAnthony/pygame-adventures?style=social)
