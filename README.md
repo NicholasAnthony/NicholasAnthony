@@ -41,7 +41,7 @@ Here are some projects I'm proud of:
 - **Tech Stack**: MicroPython, C, R
 - **Link**: [github.com/NicholasAnthony/SleepMonitor](https://github.com/NicholasAnthony/SleepMonitor)
 
-### Quarto Healthcare Dashboard
+### Fast API Demo
 ![GitHub stars](https://img.shields.io/github/stars/NicholasAnthony/demo-FastAPI?style=social)
 - **Description**: A small demo application showing user registration and login using FastAPI, Pydantic models, password hashing, and SQLite storage
 - **Tech Stack**: Python, FastAPI, Pydantic, SQLite, html, css
@@ -59,7 +59,7 @@ Here are some projects I'm proud of:
 
 ## 📊 GitHub Stats
 ![Nick Anthony's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NicholasAnthony)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicholasAnthony&layout=donut)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicholasAnthony)
 
 
 ---
