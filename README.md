@@ -45,7 +45,7 @@ Here are some projects I'm proud of:
 ![GitHub stars](https://img.shields.io/github/stars/NicholasAnthony/demo-FastAPI?style=social)
 - **Description**: A small demo application showing user registration and login using FastAPI, Pydantic models, password hashing, and SQLite storage
 - **Tech Stack**: Python, FastAPI, Pydantic, SQLite, html, css
-- **Link**: [github.com/NicholasAnthony/quarto-healthcare-dash](https://github.com/NicholasAnthony/demo-FastAPI)
+- **Link**: [github.com/NicholasAnthony/demo-FastAPI](https://github.com/NicholasAnthony/demo-FastAPI)
 
 ### Pygame Adventures
 ![GitHub stars](https://img.shields.io/github/stars/NicholasAnthony/pygame-adventures?style=social)
