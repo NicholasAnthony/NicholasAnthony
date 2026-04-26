@@ -61,7 +61,6 @@ Here are some projects I'm proud of:
 ![Nick Anthony's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NicholasAnthony)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NicholasAnthony)
 
-
 ---
 
 ---
