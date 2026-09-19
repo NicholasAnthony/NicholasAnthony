@@ -59,7 +59,7 @@ Here are some projects I'm proud of:
 
 ## 📊 GitHub Stats
 ![Nick Anthony's GitHub Stats](https://streak-stats.demolab.com?user=NicholasAnthony&theme=tokyonight)
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=NicholasAnthony&theme=github_dark)
+![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=NicholasAnthony&theme=github_dark)
 
 
 ---
