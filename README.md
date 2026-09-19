@@ -59,6 +59,7 @@ Here are some projects I'm proud of:
 
 ## 📊 GitHub Stats
 ![Nick Anthony's GitHub Stats](https://streak-stats.demolab.com?user=NicholasAnthony&theme=tokyonight)
+![Top Langs](https://github-readme-stats.i/top-langs/?username=NicholasAnthony&layout=compact)
 
 
 ---
